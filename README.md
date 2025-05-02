@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java and Flutter
 - 💞️ I’m looking to collaborate on open source projects
 - 🛠️ I’m currently working on improving my coding skills
-- 📫 Reach me on underdograt@gmail.com
+- 📫 Reach me on maniitchoudhary@gmail.com
 - ⚡ Fun fact: I love working together and learn new skills
 
 <!---
